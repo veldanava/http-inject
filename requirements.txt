@@ -1,4 +1,4 @@
-Scapy
+scapy
 NetfilterQueue
-Colorama
+colorama
 
