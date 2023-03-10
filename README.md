@@ -1,8 +1,7 @@
 # About:
 
-HTTP Inject is a project aimed at intercepting and injecting HTTP packets to monitor and modify network traffic. <br>
-This project is useful for network administrators, security professionals, and developers who need to analyze HTTP traffic or test the security of web applications. <br>
-These tools allow users to perform injection techniques into a website with the HTTP protocol.
+This tools allow users to perform injection techniques into a website with the HTTP protocol. <br>
+Useful for network administrators, security professionals, and developers who need to analyze HTTP traffic or test the security of web applications. <br>
 
 ## Example:
 
