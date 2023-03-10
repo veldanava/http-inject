@@ -40,4 +40,6 @@ python main.py
 
 ## Contribution:
 Feel free to contribute to this project by submitting bug reports or feature requests through GitHub issues or by creating a pull request. <br>
+<br>
+
 teer.id/miraeznain
