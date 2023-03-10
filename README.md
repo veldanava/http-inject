@@ -8,15 +8,11 @@ HTTP Packet Inject is a project aimed at intercepting and injecting HTTP packets
 
 ![WhatsApp Image 2023-03-10 at 2 20 09 PM (1)](https://user-images.githubusercontent.com/84911110/224254405-28135524-6f47-4d6b-aaa5-2f9ccd57fda0.jpeg)
 
-
-
 ## Requirements:
-1. Python 3.x
-2. scapy library
-3. NetfilterQueue
-4. colorama
-
-
+Python 3.x
+scapy library
+NetfilterQueue
+colorama
 
 ## Installation
 
@@ -34,7 +30,7 @@ Start the program:
 ```
 python main.py
 ````
->input ur injection code
+>input ur injection code <br>
 >this program works with ARP Spoofing as a partner, so you have to do Spoofing first
 
 ## Contribution
