@@ -34,13 +34,8 @@ Start the program:
 ```
 python main.py
 ````
->Enter the target IP address and port number.
-
->Choose the type of injection (request or response).
-
->Enter the HTTP packet to inject.
-
->View the modified packet in the console.
+>input ur injection code
+>this program works with ARP Spoofing as a partner, so you have to do Spoofing first
 
 ## Contribution
 Feel free to contribute to this project by submitting bug reports or feature requests through GitHub issues or by creating a pull request.
