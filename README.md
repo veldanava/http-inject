@@ -18,7 +18,7 @@ colorama <br>
 
 Clone the repository:
 ```zsh
-https://github.com/veldanava/http-packet-inject
+git clone https://github.com/veldanava/http-packet-inject.git
 ```
 Install Requirement:
 ```zsh
